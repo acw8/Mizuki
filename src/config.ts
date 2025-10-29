@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Ac's Blog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "http://q.qlogo.cn/headimg_dl?dst_uin=2066308410&spec=640&img_type=jpg",
+		icon: "https://q.qlogo.cn/headimg_dl?dst_uin=2066308410&spec=640&img_type=jpg",
 	},
 
 	bangumi: {
@@ -286,7 +286,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "https://q.qlogo.cn/headimg_dl?dst_uin=2066308410&spec=640&img_type=jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "Ac.",
 	bio: "不要在意他人的看法.",
 	typewriter: {
@@ -348,7 +348,7 @@ export const announcementConfig: AnnouncementConfig = {
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
-		text: "Learn More", // 链接文本
+		text: "了解更多", // 链接文本
 		url: "/about/", // 链接 URL
 		external: false, // 内部链接
 	},
