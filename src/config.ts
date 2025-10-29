@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Ac's Blog",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "https:///q.qlogo.cn/headimg_dl?dst_uin=2066308410&spec=640&img_type=jpg",
+		icon: "assets/home/home.png",
 	},
 
 	bangumi: {
@@ -542,7 +542,7 @@ export const widgetConfigs = {
 } as const;
 
 export const umamiConfig = {
-	enabled: false, // 是否显示Umami统计
+	enabled: true, // 是否显示Umami统计
 	apiKey: import.meta.env.UMAMI_API_KEY || "f9e3b279-3505-44e7-9185-7d421ca98228", // API密钥优先从环境变量读取，否则使用配置文件中的值
 	baseUrl: "https://umami.kek1.cn", // Umami Cloud API地址
 	scripts: `
