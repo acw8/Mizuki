@@ -518,14 +518,14 @@ export const pioConfig: import("./types/config").PioConfig = {
 	dialog: {
 		welcome: "Welcome To My Blog!", // 欢迎词
 		touch: [
-			"你要干嘛?",
-			"别碰我!",
-			"变态!",
-			"别那样欺负我!",
+			"你在干什么?",
+			"再摸我就报警了!",
+			"HENTAI!",
+			"不可以这样欺负我啦!",
 		], // 触摸提示
 		home: "点击此处返回主页!", // 首页提示
-		skin: ["想看看我的新衣服吗?", "这套新衣服看起来很棒~"], // 换装提示
-		close: "QWQ 下次见~", // 关闭提示
+		skin: ["想看看我的新衣服吗?", "新衣服真漂亮~"], // 换装提示
+		close: "QWQ 下次再见吧~", // 关闭提示
 		link: "https://blog.kek1.cn/about", // 关于链接
 	},
 };
