@@ -1,49 +1,77 @@
+你好，我是 **Ac**。
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
+一个还在持续学习中的学生，也是一个喜欢折腾、喜欢写代码、喜欢尝试新东西的开发者。
 
-::github{repo="LyraVoid/Mizuki"}
+> [!TIP]
+> 这里主要记录技术、项目、踩坑过程，以及一些我觉得有意思的内容。
+> 
+> 我更偏向全栈方向，从页面到服务端都会接触，也会关注 AI / Machine Learning 相关内容。
+> 
+> 如果你也喜欢技术、工具和折腾，欢迎常来看看。
 
-## 🌟 Theme Features
+## 关于我
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+- Student，正在继续探索代码世界
+- 偏全栈开发，喜欢从前端一路做到后端
+- 对 **AI / Machine Learning** 保持兴趣
+- 喜欢开源，也喜欢把折腾过程整理成文章
+- 目前的个人站点: [kek1.cn](https://kek1.cn)
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+## GitHub
 
+我的 GitHub: [https://github.com/dix8](https://github.com/dix8)
 
+::github{repo="dix8/dix8"}
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+## 技术栈
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+这部分基本和 GitHub 上的介绍保持一致。平时没有把自己限制在某一个固定方向里，常用和常接触的内容主要包括这些：
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+### Frontend
 
----
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vue.js
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+### Backend
+
+- Node.js
+- Python
+- Java
+- Go
+
+### Tools & Others
+
+- Git
+- Docker
+- Linux
+- VS Code
+- IntelliJ IDEA
+- DataGrip
+- Visual Studio
+
+> [!NOTE]
+> 我不太执着于给自己贴一个很死的技术标签。比起“属于哪一派”，我更在意工具是不是顺手，方案是不是有效，问题有没有真正被解决。
+
+## 这个博客会写什么
+
+这里大概会持续更新这些内容：
+
+- 技术学习过程中的记录和总结
+- 做项目时遇到的问题、方案和踩坑
+- 工具链、自动化、部署和效率优化相关内容
+- 一些有趣的网站、项目、内容或者想法
+
+对我来说，博客不只是一个展示页面，更像是一份持续更新的个人笔记。
+
+很多东西如果不写下来，过一段时间就会变得模糊。把它们整理成文章，一方面方便自己以后回头查，另一方面如果刚好也能帮到别人，那就更好了。
+
+## 为什么写博客
+
+写博客本身也是整理思路的一种方式。
+
+很多时候，只有真正把一件事写出来，才会发现自己到底有没有理解它。这里的内容既是分享，也是记录; 既是写给现在的读者看的，也是留给未来的自己看的。
+
+如果你也对技术、折腾、工具，或者各种有趣的互联网内容感兴趣，欢迎随便逛逛。
