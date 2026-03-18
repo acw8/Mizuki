@@ -20,6 +20,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://kek1.cn",
 		tags: ["Personal", "Tech"],
 	},
+	{
+		id: 2,
+		title: "Betsy Blog",
+		imgurl: "https://img.micostar.cc/images/avatar.webp",
+		desc: "爱我所爱，我们是彼此永远的动力",
+		siteurl: "https://www.micostar.cc",
+		tags: ["Blog", "Friend"],
+	},
 ];
 
 // 获取所有友情链接数据
